@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    height: 350px; 
+    margin: 0;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    color: white;
+    width: 85%;
+    text-align: center; 
+}
+
+h1 {
+    font-size: 16px;
+    color: white;
+    text-align: center; 
+}
+
+input {
+    width: 85%;
+    margin-bottom: 10px;
+    background-color: white;
+    color: black;
+    text-align: center; 
+}
+
+button {
+    width: 85%;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
