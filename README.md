@@ -1,6 +1,7 @@
 # Bastion X-Ray
 
 Bastion X-Ray is a Chrome extension that allows users to access paywalled articles through the Wayback Machine. This extension provides a simple and efficient way to unlock valuable content without barriers.
+For the Firefox version of this extension, go to https://github.com/noeljbass/BastionXRayFirefox
 
 ## Features
 
