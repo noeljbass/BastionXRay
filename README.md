@@ -15,7 +15,7 @@ To download and run the Bastion X-Ray extension, follow these steps:
 
 ### Step 1: Download the Extension
 
-1. Go to the [Bastion X-Ray GitHub repository](https://github.com/yourusername/bastion-x-ray).
+1. Go to the [Bastion X-Ray GitHub repository](https://github.com/noeljbass/BastionXRay).
 2. Click on the green "Code" button.
 3. Select "Download ZIP" to download the repository as a ZIP file.
 4. Extract the contents of the ZIP file to a folder on your computer.
